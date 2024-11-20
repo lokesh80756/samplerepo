@@ -3,7 +3,7 @@ function father (callback){
     callback();
 }
 function love (callback){
-    console.log("revathi love");
+    console.log("revathi love started");
     callback();
 }
 function marriage (callback){
