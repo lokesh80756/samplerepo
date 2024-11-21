@@ -3,11 +3,11 @@ function father (callback){
     callback();
 }
 function love (callback){
-    console.log("revathi love started");
+    console.log("revathi and love started");
     callback();
 }
 function marriage (callback){
-    console.log("truns to weeding");
+    console.log("truns into weeding");
     callback();
 }
 function son (callback){
