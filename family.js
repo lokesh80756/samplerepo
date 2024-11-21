@@ -7,7 +7,7 @@ function love (callback){
     callback();
 }
 function marriage (callback){
-    console.log("truns into weeding");
+    console.log("truns into family weeding");
     callback();
 }
 function son (callback){
